@@ -717,7 +717,7 @@
 - [DocPad](https://github.com/docpad/docpad) - Static site generator with dynamic abilities and huge plugin ecosystem.
 - [Phenomic](https://github.com/phenomic/phenomic) - Modern static website generator based on the React and Webpack ecosystem.
 - [docsify](https://github.com/QingWei-Li/docsify) - Markdown documentation site generator with no statically built HTML files.
-- [Cogear.JS](https://github.com/codemotion/cogear.js) — Modern static websites generator based on the latest Webpack, provides plugins and themes.
+- [Cogear.JS](https://github.com/codemotion/cogear.js) — Modern static websites generator based on the latest Webpack, provides plugins, themes and even blogging capabilities. 
 
 
 ### Content management systems
